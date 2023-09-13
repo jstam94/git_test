@@ -1,1 +1,3 @@
-Hi, I am adding some text per the directions on the Odin Project!!!
+Hi, I am adding some text per the directions on the Odin Project!!!\
+
+Adding some text so I can test commit messages!
